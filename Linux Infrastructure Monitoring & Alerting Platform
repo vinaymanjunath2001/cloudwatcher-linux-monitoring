@@ -1,0 +1,94 @@
+# CloudWatcher: Linux Infrastructure Monitoring & Alerting Platform
+
+## Overview
+
+CloudWatcher is an end-to-end Linux infrastructure monitoring and alerting platform built using Prometheus, Grafana, Alertmanager, Node Exporter, and Slack integration.
+
+The project focuses on collecting real-time system metrics from Linux servers, visualizing infrastructure health through Grafana dashboards, and generating automated alerts for critical incidents. The solution simulates production-style monitoring workflows used by Site Reliability Engineering (SRE) and DevOps teams.
+
+## Architecture
+
+Linux Server (AWS EC2)
+
+↓
+
+Node Exporter
+
+↓
+
+Prometheus
+
+↓
+
+Grafana Dashboards
+
+↓
+
+Alert Rules
+
+↓
+
+Alertmanager
+
+↓
+
+Slack Notifications
+
+## Key Features
+
+* Real-time Linux server monitoring
+* CPU, Memory, Disk, and Network visibility
+* Prometheus-based metric collection
+* Grafana dashboard visualization
+* Alertmanager integration
+* Slack-based incident notifications
+* Production-style troubleshooting and Root Cause Analysis (RCA)
+* Infrastructure observability implementation
+
+## Technologies Used
+
+* AWS EC2
+* Linux (Ubuntu)
+* Prometheus
+* Node Exporter
+* Grafana
+* Alertmanager
+* Slack
+* Systemd Services
+
+## Monitoring Metrics
+
+* CPU Utilization
+* Memory Utilization
+* Disk Usage
+* Network Traffic
+* System Load
+* Host Availability
+
+## Alerting Scenarios
+
+* High CPU Usage
+* High Memory Consumption
+* Low Disk Space
+* Host Unreachable
+* Service Availability Issues
+
+## Medium Blog
+
+Read the complete implementation guide:
+
+[Add Your Medium Blog Link Here]
+
+## Learning Outcomes
+
+* Infrastructure Monitoring Fundamentals
+* Prometheus Architecture
+* Grafana Dashboard Design
+* Alert Management
+* Incident Response Workflow
+* Production Monitoring Best Practices
+* SRE Monitoring Concepts
+
+## Author
+
+Vinay M
