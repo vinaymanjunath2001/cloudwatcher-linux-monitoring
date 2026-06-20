@@ -77,7 +77,7 @@ Slack Notifications
 
 Read the complete implementation guide:
 
-[Add Your Medium Blog Link Here]
+https://medium.com/@vinaymanjunath2004/building-cloudwatcher-real-time-linux-infrastructure-monitoring-with-prometheus-grafana-19259beedbf8
 
 ## Learning Outcomes
 
@@ -88,5 +88,3 @@ Read the complete implementation guide:
 * Incident Response Workflow
 * Production Monitoring Best Practices
 * SRE Monitoring Concepts
-
-Blog link : https://medium.com/@vinaymanjunath2004/building-cloudwatcher-real-time-linux-infrastructure-monitoring-with-prometheus-grafana-19259beedbf8
